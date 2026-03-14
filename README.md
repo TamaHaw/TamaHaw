@@ -4,7 +4,6 @@
 Developer specialized in Game, Mobile, and Web Development.
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TamaHaw&show_icons=true&theme=radical&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TamaHaw&theme=radical&hide_border=true)
 
 ### 🛠 Tech Stack
@@ -12,7 +11,7 @@ Developer specialized in Game, Mobile, and Web Development.
 - **Frameworks:** Flutter, Unity
 
 ---
-> “Games are the only force in the known universe that can get people to take actions against their self-interest.” – Seth Priebatsch
+> “First, solve the problem. Then, write the code.” – John Johnson
 ---
 
-*Last updated: 3/14/2026, 12:55:20 AM*
+*Last updated: 3/14/2026, 1:00:29 AM*
