@@ -15,7 +15,7 @@ Developer specialized in Game, Mobile, and Web Development.
 | **Tools** | ![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Simplicity is the soul of efficiency.” – Austin Freeman
 ---
 
-*Last updated: 3/14/2026, 1:22:09 AM*
+*Last updated: 3/15/2026, 1:47:01 AM*
