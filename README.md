@@ -15,7 +15,7 @@ Developer specialized in Game, Mobile, and Web Development.
 | **Design & Tools** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
-> “Games are the only force in the known universe that can get people to take actions against their self-interest.” – Seth Priebatsch
+> “Simplicity is the soul of efficiency.” – Austin Freeman
 ---
 
-*Last updated: 3/15/2026, 2:27:08 AM*
+*Last updated: 3/16/2026, 1:48:48 AM*
