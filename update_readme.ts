@@ -8,7 +8,17 @@ const quotes = [
   "“Simplicity is the soul of efficiency.” – Austin Freeman",
   "“Games are the only force in the known universe that can get people to take actions against their self-interest.” – Seth Priebatsch",
   "“The best error message is the one that never appears.” – Thomas Fuchs",
-  "“Experience is the name everyone gives to their mistakes.” – Oscar Wilde"
+  "“Experience is the name everyone gives to their mistakes.” – Oscar Wilde",
+  "“Digital design is like painting, except the paint never dries.” – Neville Brody",
+  "“A late game is only late until it ships. A bad game is bad forever.” – Shigeru Miyamoto",
+  "“The function of good software is to make the complex appear to be simple.” – Grady Booch",
+  "“Every great design begins with an even better story.” – Lorinda Mamo",
+  "“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs",
+  "“Software is a great combination between artistry and engineering.” – Bill Gates",
+  "“The most disastrous thing that you can ever learn is your first programming language.” – Alan Kay",
+  "“Your most unhappy customers are your greatest source of learning.” – Bill Gates",
+  "“If you can dream it, you can do it.” – Walt Disney",
+  "“It’s not a bug – it’s an undocumented feature.” – Anonymous"
 ];
 
 const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
