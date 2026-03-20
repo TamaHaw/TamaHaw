@@ -23,7 +23,7 @@ ${description}
 
 ### 📊 GitHub Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=${githubUsername}&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=${githubUsername}&layout=compact&theme=radical&hide_border=true&count_private=true&hide=c,c%2B%2B,cmake,swift,objective-c" alt="Top Languages" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=${githubUsername}&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
