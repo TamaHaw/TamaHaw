@@ -15,7 +15,7 @@ Developer specialized in Game, Mobile, and Web Development.
 | **Backend & Tools** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Google App Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white) ![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
-> “Games are the only force in the known universe that can get people to take actions against their self-interest.” – Seth Priebatsch
+> “Software is a great combination between artistry and engineering.” – Bill Gates
 ---
 
-*Last updated: 3/19/2026, 1:29:26 AM*
+*Last updated: 3/20/2026, 1:24:47 AM*
