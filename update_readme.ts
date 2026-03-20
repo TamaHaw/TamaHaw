@@ -5,20 +5,13 @@ const githubUsername = "TamaHaw";
 const quotes = [
   "“First, solve the problem. Then, write the code.” – John Johnson",
   "“Code is like humor. When you have to explain it, it’s bad.” – Cory House",
-  "“Simplicity is the soul of efficiency.” – Austin Freeman",
-  "“Games are the only force in the known universe that can get people to take actions against their self-interest.” – Seth Priebatsch",
-  "“The best error message is the one that never appears.” – Thomas Fuchs",
-  "“Experience is the name everyone gives to their mistakes.” – Oscar Wilde",
-  "“Digital design is like painting, except the paint never dries.” – Neville Brody",
   "“A late game is only late until it ships. A bad game is bad forever.” – Shigeru Miyamoto",
-  "“The function of good software is to make the complex appear to be simple.” – Grady Booch",
-  "“Every great design begins with an even better story.” – Lorinda Mamo",
+  "“It’s not a bug – it’s an undocumented feature.” – Anonymous",
   "“Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs",
-  "“Software is a great combination between artistry and engineering.” – Bill Gates",
-  "“The most disastrous thing that you can ever learn is your first programming language.” – Alan Kay",
-  "“Your most unhappy customers are your greatest source of learning.” – Bill Gates",
-  "“If you can dream it, you can do it.” – Walt Disney",
-  "“It’s not a bug – it’s an undocumented feature.” – Anonymous"
+  "“The function of good software is to make the complex appear to be simple.” – Grady Booch",
+  "“Digital design is like painting, except the paint never dries.” – Neville Brody",
+  "“Experience is the name everyone gives to their mistakes.” – Oscar Wilde",
+  "“Simplicity is the soul of efficiency.” – Austin Freeman"
 ];
 
 const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
@@ -28,8 +21,11 @@ const content = `
 
 ${description}
 
-### 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=${githubUsername}&theme=radical&hide_border=true)
+### 📊 GitHub Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=${githubUsername}&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=${githubUsername}&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
 
 ### 🛠 Tech Stack
 
@@ -43,8 +39,8 @@ ${description}
 > ${randomQuote}
 ---
 
-*Last updated: ${new Date().toLocaleString()}*
+*Last updated: ${new Date().toLocaleString('id-ID', { timeZone: 'Asia/Jakarta' })}*
 `;
 
 await Deno.writeTextFile("README.md", content);
-console.log("README.md updated with official tech colors!");
+console.log("README.md updated with Top Languages (including private repons)!");
