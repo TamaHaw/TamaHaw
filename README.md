@@ -18,7 +18,7 @@ Developer specialized in Game, Mobile, and Web Development.
 | **Backend & Tools** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Google App Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white) ![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
-> “Experience is the name everyone gives to their mistakes.” – Oscar Wilde
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 ---
 
-*Last updated: 21/3/2026, 05.23.40*
+*Last updated: 21/3/2026, 08.20.14*
