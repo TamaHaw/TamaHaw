@@ -5,7 +5,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 ### 📊 GitHub Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamaHaw&layout=compact&theme=radical&hide_border=true&count_private=true&langs_count=10&hide=c,c%2B%2B,cmake,swift,objective-c,makefile" alt="Top Languages" height="165" />
+  // <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamaHaw&layout=compact&theme=radical&hide_border=true&count_private=true&langs_count=10&hide=c,c%2B%2B,cmake,swift,objective-c,makefile" alt="Top Languages" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TamaHaw&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
@@ -18,7 +18,7 @@ Developer specialized in Game, Mobile, and Web Development.
 | **Backend & Tools** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Google App Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white) ![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
 ---
 
-*Last updated: 21/3/2026, 08.20.14*
+*Last updated: 22/3/2026, 04.53.50*
