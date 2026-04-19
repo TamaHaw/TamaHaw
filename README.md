@@ -17,7 +17,7 @@ Developer specialized in Game, Mobile, and Web Development.
 | **Backend & Tools** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Google App Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white) ![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
-> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
+> “Experience is the name everyone gives to their mistakes.” – Oscar Wilde
 ---
 
-*Last updated: 18/4/2026, 08.47.28*
+*Last updated: 19/4/2026, 08.59.53*
