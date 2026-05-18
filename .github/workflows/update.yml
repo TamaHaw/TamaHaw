@@ -1,22 +1,31 @@
 name: Update README
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Bisa dijalankan manual
+    - cron: '0 0 * * *' # Jalan tiap jam 7 pagi WIB
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: denoland/setup-deno@v1
+      - name: Setup repo
+        uses: actions/checkout@v4
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v2
         with:
           deno-version: v1.x
-      - run: deno run --allow-write update_readme.ts
+
+      - name: Run script
+        run: deno run --allow-write update_readme.ts
+
       - name: Commit changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com"
+          git config --local user.name "${{ github.actor }}"
+          
           git add README.md
-          git commit -m "Update README dynamically" || exit 0
-          git push
+          git commit -m "Update README dynamically [skip ci]" || exit 0
+
+          git pull --rebase origin main
+          git push origin main
