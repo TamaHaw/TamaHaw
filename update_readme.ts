@@ -23,7 +23,7 @@ ${description}
 
 ### 📊 GitHub Activity
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=${githubUsername}&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=${githubUsername}&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="165" />
 </p>
 
 ### 🛠 Tech Stack
