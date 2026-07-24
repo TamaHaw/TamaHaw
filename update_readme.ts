@@ -25,12 +25,22 @@ const lastUpdated = new Date().toLocaleString("id-ID", {
 const content = `
 <div align="center">
 
-# Hi, I'm ${name} 👋
+# 👋 Hi there!
 
-${description}
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=B26BF7&center=true&vCenter=true&width=600&lines=${encodeURIComponent(`I'm ${name}`)};${encodeURIComponent(description)}" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=${githubUsername}&style=flat-square&color=blueviolet" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/${githubUsername}?style=flat-square&color=blueviolet" alt="GitHub followers" />
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/${githubUsername}/${githubUsername}/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
