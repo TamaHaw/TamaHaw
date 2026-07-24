@@ -16,20 +16,9 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TamaHaw&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamaHaw&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
-
 <img src="https://streak-stats.demolab.com/?user=TamaHaw&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="165" />
 
 </div>
-
-<details>
-<summary>🏆 GitHub Trophies</summary>
-<br>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TamaHaw&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
-</details>
 
 ---
 
@@ -45,7 +34,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “Simplicity is the soul of efficiency.” – Austin Freeman
+> “Experience is the name everyone gives to their mistakes.” – Oscar Wilde
 
 </div>
 
@@ -53,6 +42,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 24 Juli 2026 pukul 08.59 WIB*
+*Last updated: 24 Juli 2026 pukul 19.00 WIB*
 
 </div>
