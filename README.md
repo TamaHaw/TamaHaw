@@ -1,12 +1,22 @@
 
 <div align="center">
 
-# Hi, I'm Wahyu Pratama 👋
+# 👋 Hi there!
 
-Developer specialized in Game, Mobile, and Web Development.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=B26BF7&center=true&vCenter=true&width=600&lines=I'm%20Wahyu%20Pratama;Developer%20specialized%20in%20Game%2C%20Mobile%2C%20and%20Web%20Development." alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=TamaHaw&style=flat-square&color=blueviolet" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/TamaHaw?style=flat-square&color=blueviolet" alt="GitHub followers" />
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/TamaHaw/TamaHaw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
@@ -34,7 +44,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “Experience is the name everyone gives to their mistakes.” – Oscar Wilde
+> “First, solve the problem. Then, write the code.” – John Johnson
 
 </div>
 
@@ -42,6 +52,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 24 Juli 2026 pukul 19.00 WIB*
+*Last updated: 24 Juli 2026 pukul 19.17 WIB*
 
 </div>
