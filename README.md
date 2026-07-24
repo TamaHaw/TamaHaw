@@ -1,9 +1,9 @@
 
 <div align="center">
 
-# 👋 Hi there!
+# Hi, I'm Wahyu Pratama 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=B26BF7&center=true&vCenter=true&width=600&lines=I'm%20Wahyu%20Pratama;Developer%20specialized%20in%20Game%2C%20Mobile%2C%20and%20Web%20Development." alt="Typing SVG" />
+Developer specialized in Game, Mobile, and Web Development.
 
 <img src="https://komarev.com/ghpvc/?username=TamaHaw&style=flat-square&color=blueviolet" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/TamaHaw?style=flat-square&color=blueviolet" alt="GitHub followers" />
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> “A late game is only late until it ships. A bad game is bad forever.” – Shigeru Miyamoto
 
 </div>
 
@@ -52,6 +52,6 @@
 
 <div align="center">
 
-*Last updated: 24 Juli 2026 pukul 19.17 WIB*
+*Last updated: 24 Juli 2026 pukul 19.23 WIB*
 
 </div>
