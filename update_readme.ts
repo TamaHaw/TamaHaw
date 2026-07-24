@@ -25,9 +25,9 @@ const lastUpdated = new Date().toLocaleString("id-ID", {
 const content = `
 <div align="center">
 
-# 👋 Hi there!
+# Hi, I'm ${name} 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=B26BF7&center=true&vCenter=true&width=600&lines=${encodeURIComponent(`I'm ${name}`)};${encodeURIComponent(description)}" alt="Typing SVG" />
+${description}
 
 <img src="https://komarev.com/ghpvc/?username=${githubUsername}&style=flat-square&color=blueviolet" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/${githubUsername}?style=flat-square&color=blueviolet" alt="GitHub followers" />
