@@ -44,7 +44,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “The function of good software is to make the complex appear to be simple.” – Grady Booch
+> “It’s not a bug – it’s an undocumented feature.” – Anonymous
 
 </div>
 
@@ -52,6 +52,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 25 Juli 2026 pukul 08.58 WIB*
+*Last updated: 26 Juli 2026 pukul 09.03 WIB*
 
 </div>
