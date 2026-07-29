@@ -44,7 +44,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “It’s not a bug – it’s an undocumented feature.” – Anonymous
+> “Digital design is like painting, except the paint never dries.” – Neville Brody
 
 </div>
 
@@ -52,6 +52,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 28 Juli 2026 pukul 08.51 WIB*
+*Last updated: 29 Juli 2026 pukul 08.54 WIB*
 
 </div>
