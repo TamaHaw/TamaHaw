@@ -44,7 +44,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “Digital design is like painting, except the paint never dries.” – Neville Brody
+> “The function of good software is to make the complex appear to be simple.” – Grady Booch
 
 </div>
 
@@ -52,6 +52,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 29 Juli 2026 pukul 08.54 WIB*
+*Last updated: 30 Juli 2026 pukul 08.46 WIB*
 
 </div>
