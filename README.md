@@ -44,7 +44,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> “Simplicity is the soul of efficiency.” – Austin Freeman
 
 </div>
 
@@ -52,6 +52,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 4 Agustus 2026 pukul 08.50 WIB*
+*Last updated: 5 Agustus 2026 pukul 08.50 WIB*
 
 </div>
