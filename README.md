@@ -26,7 +26,8 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=TamaHaw&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=TamaHaw&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamaHaw&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
 
 </div>
 
@@ -44,7 +45,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “It’s not a bug – it’s an undocumented feature.” – Anonymous
+> “Experience is the name everyone gives to their mistakes.” – Oscar Wilde
 
 </div>
 
@@ -52,6 +53,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 14 Agustus 2026 pukul 08.16 WIB*
+*Last updated: 14 Agustus 2026 pukul 15.48 WIB*
 
 </div>
