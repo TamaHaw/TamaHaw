@@ -45,7 +45,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “Digital design is like painting, except the paint never dries.” – Neville Brody
+> “Simplicity is the soul of efficiency.” – Austin Freeman
 
 </div>
 
@@ -53,6 +53,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 19 Agustus 2026 pukul 07.47 WIB*
+*Last updated: 20 Agustus 2026 pukul 07.47 WIB*
 
 </div>
