@@ -45,7 +45,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “Experience is the name everyone gives to their mistakes.” – Oscar Wilde
+> “First, solve the problem. Then, write the code.” – John Johnson
 
 </div>
 
@@ -53,6 +53,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 29 Agustus 2026 pukul 12.01 WIB*
+*Last updated: 30 Agustus 2026 pukul 09.50 WIB*
 
 </div>
