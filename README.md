@@ -45,7 +45,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “Digital design is like painting, except the paint never dries.” – Neville Brody
+> “First, solve the problem. Then, write the code.” – John Johnson
 
 </div>
 
@@ -53,6 +53,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 1 September 2026 pukul 09.55 WIB*
+*Last updated: 2 September 2026 pukul 09.15 WIB*
 
 </div>
