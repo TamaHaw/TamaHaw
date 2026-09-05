@@ -45,7 +45,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “Digital design is like painting, except the paint never dries.” – Neville Brody
+> “A late game is only late until it ships. A bad game is bad forever.” – Shigeru Miyamoto
 
 </div>
 
@@ -53,6 +53,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 4 September 2026 pukul 09.18 WIB*
+*Last updated: 5 September 2026 pukul 09.18 WIB*
 
 </div>
