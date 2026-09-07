@@ -45,7 +45,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “A late game is only late until it ships. A bad game is bad forever.” – Shigeru Miyamoto
+> “It’s not a bug – it’s an undocumented feature.” – Anonymous
 
 </div>
 
@@ -53,6 +53,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 6 September 2026 pukul 09.15 WIB*
+*Last updated: 7 September 2026 pukul 09.11 WIB*
 
 </div>
