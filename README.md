@@ -45,7 +45,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> “The function of good software is to make the complex appear to be simple.” – Grady Booch
 
 </div>
 
@@ -53,6 +53,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 8 September 2026 pukul 09.24 WIB*
+*Last updated: 9 September 2026 pukul 09.26 WIB*
 
 </div>
