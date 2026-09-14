@@ -45,7 +45,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Experience is the name everyone gives to their mistakes.” – Oscar Wilde
 
 </div>
 
@@ -53,6 +53,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 13 September 2026 pukul 09.27 WIB*
+*Last updated: 14 September 2026 pukul 09.44 WIB*
 
 </div>
