@@ -45,7 +45,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
 
 </div>
 
@@ -53,6 +53,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 15 September 2026 pukul 09.47 WIB*
+*Last updated: 16 September 2026 pukul 09.42 WIB*
 
 </div>
