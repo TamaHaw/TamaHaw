@@ -45,7 +45,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 </div>
 
@@ -53,6 +53,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 22 September 2026 pukul 09.41 WIB*
+*Last updated: 23 September 2026 pukul 09.42 WIB*
 
 </div>
