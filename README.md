@@ -45,7 +45,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “It’s not a bug – it’s an undocumented feature.” – Anonymous
+> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
 
 </div>
 
@@ -53,6 +53,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 27 September 2026 pukul 09.54 WIB*
+*Last updated: 28 September 2026 pukul 09.54 WIB*
 
 </div>
