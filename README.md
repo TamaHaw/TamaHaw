@@ -45,7 +45,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
+> “Simplicity is the soul of efficiency.” – Austin Freeman
 
 </div>
 
@@ -53,6 +53,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 28 September 2026 pukul 09.54 WIB*
+*Last updated: 29 September 2026 pukul 10.34 WIB*
 
 </div>
