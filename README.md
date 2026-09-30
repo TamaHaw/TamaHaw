@@ -26,8 +26,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TamaHaw&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamaHaw&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+<img src="https://streak-stats.demolab.com?user=TamaHaw&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -45,7 +44,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “Digital design is like painting, except the paint never dries.” – Neville Brody
+> “A late game is only late until it ships. A bad game is bad forever.” – Shigeru Miyamoto
 
 </div>
 
@@ -53,6 +52,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 30 September 2026 pukul 10.20 WIB*
+*Last updated: 30 September 2026 pukul 22.34 WIB*
 
 </div>
