@@ -44,7 +44,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “The function of good software is to make the complex appear to be simple.” – Grady Booch
+> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
 
 </div>
 
@@ -52,6 +52,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 8 Oktober 2026 pukul 10.51 WIB*
+*Last updated: 9 Oktober 2026 pukul 10.56 WIB*
 
 </div>
