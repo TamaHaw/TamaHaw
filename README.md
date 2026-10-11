@@ -44,7 +44,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “It’s not a bug – it’s an undocumented feature.” – Anonymous
 
 </div>
 
@@ -52,6 +52,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 10 Oktober 2026 pukul 10.41 WIB*
+*Last updated: 11 Oktober 2026 pukul 10.14 WIB*
 
 </div>
