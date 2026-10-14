@@ -44,7 +44,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Simplicity is the soul of efficiency.” – Austin Freeman
 
 </div>
 
@@ -52,6 +52,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 13 Oktober 2026 pukul 11.50 WIB*
+*Last updated: 14 Oktober 2026 pukul 09.58 WIB*
 
 </div>
