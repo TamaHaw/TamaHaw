@@ -44,7 +44,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “A late game is only late until it ships. A bad game is bad forever.” – Shigeru Miyamoto
+> “Simplicity is the soul of efficiency.” – Austin Freeman
 
 </div>
 
@@ -52,6 +52,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 15 Oktober 2026 pukul 09.37 WIB*
+*Last updated: 16 Oktober 2026 pukul 09.33 WIB*
 
 </div>
