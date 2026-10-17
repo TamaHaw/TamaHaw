@@ -44,7 +44,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “Simplicity is the soul of efficiency.” – Austin Freeman
+> “Experience is the name everyone gives to their mistakes.” – Oscar Wilde
 
 </div>
 
@@ -52,6 +52,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 16 Oktober 2026 pukul 09.33 WIB*
+*Last updated: 17 Oktober 2026 pukul 09.26 WIB*
 
 </div>
