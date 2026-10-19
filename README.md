@@ -44,7 +44,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “Experience is the name everyone gives to their mistakes.” – Oscar Wilde
+> “It’s not a bug – it’s an undocumented feature.” – Anonymous
 
 </div>
 
@@ -52,6 +52,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 18 Oktober 2026 pukul 09.26 WIB*
+*Last updated: 19 Oktober 2026 pukul 09.40 WIB*
 
 </div>
