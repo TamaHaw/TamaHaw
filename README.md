@@ -44,7 +44,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “Experience is the name everyone gives to their mistakes.” – Oscar Wilde
+> “A late game is only late until it ships. A bad game is bad forever.” – Shigeru Miyamoto
 
 </div>
 
@@ -52,6 +52,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 31 Oktober 2026 pukul 10.32 WIB*
+*Last updated: 1 November 2026 pukul 10.39 WIB*
 
 </div>
