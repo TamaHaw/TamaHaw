@@ -44,7 +44,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Digital design is like painting, except the paint never dries.” – Neville Brody
 
 </div>
 
@@ -52,6 +52,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 2 November 2026 pukul 10.44 WIB*
+*Last updated: 3 November 2026 pukul 11.48 WIB*
 
 </div>
