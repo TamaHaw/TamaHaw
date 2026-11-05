@@ -44,7 +44,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> “A late game is only late until it ships. A bad game is bad forever.” – Shigeru Miyamoto
 
 </div>
 
@@ -52,6 +52,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 4 November 2026 pukul 11.14 WIB*
+*Last updated: 5 November 2026 pukul 11.33 WIB*
 
 </div>
