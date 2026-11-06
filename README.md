@@ -44,7 +44,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “A late game is only late until it ships. A bad game is bad forever.” – Shigeru Miyamoto
+> “The function of good software is to make the complex appear to be simple.” – Grady Booch
 
 </div>
 
@@ -52,6 +52,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 5 November 2026 pukul 11.33 WIB*
+*Last updated: 6 November 2026 pukul 11.31 WIB*
 
 </div>
