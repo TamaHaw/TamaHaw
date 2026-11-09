@@ -44,7 +44,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “Digital design is like painting, except the paint never dries.” – Neville Brody
+> “Experience is the name everyone gives to their mistakes.” – Oscar Wilde
 
 </div>
 
@@ -52,6 +52,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 8 November 2026 pukul 10.43 WIB*
+*Last updated: 9 November 2026 pukul 10.56 WIB*
 
 </div>
