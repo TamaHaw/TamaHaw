@@ -44,7 +44,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “Simplicity is the soul of efficiency.” – Austin Freeman
+> “The function of good software is to make the complex appear to be simple.” – Grady Booch
 
 </div>
 
@@ -52,6 +52,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 13 November 2026 pukul 11.27 WIB*
+*Last updated: 14 November 2026 pukul 11.23 WIB*
 
 </div>
