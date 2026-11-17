@@ -44,7 +44,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “Experience is the name everyone gives to their mistakes.” – Oscar Wilde
+> “The function of good software is to make the complex appear to be simple.” – Grady Booch
 
 </div>
 
@@ -52,6 +52,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 16 November 2026 pukul 11.06 WIB*
+*Last updated: 17 November 2026 pukul 12.56 WIB*
 
 </div>
