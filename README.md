@@ -44,7 +44,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
 
 </div>
 
@@ -52,6 +52,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 19 November 2026 pukul 12.21 WIB*
+*Last updated: 20 November 2026 pukul 12.08 WIB*
 
 </div>
