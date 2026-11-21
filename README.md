@@ -44,7 +44,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
+> “Digital design is like painting, except the paint never dries.” – Neville Brody
 
 </div>
 
@@ -52,6 +52,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 20 November 2026 pukul 12.08 WIB*
+*Last updated: 21 November 2026 pukul 12.00 WIB*
 
 </div>
