@@ -44,7 +44,7 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-> “A late game is only late until it ships. A bad game is bad forever.” – Shigeru Miyamoto
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 </div>
 
@@ -52,6 +52,6 @@ Developer specialized in Game, Mobile, and Web Development.
 
 <div align="center">
 
-*Last updated: 25 November 2026 pukul 13.22 WIB*
+*Last updated: 26 November 2026 pukul 13.14 WIB*
 
 </div>
